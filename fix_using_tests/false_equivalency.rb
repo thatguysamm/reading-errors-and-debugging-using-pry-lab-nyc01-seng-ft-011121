@@ -13,8 +13,8 @@ end
 require 'pry'
 def selection(num)
   if num == 1
-    return "YUM YUM MUNCH MUNCH MUNCH"
-    binding.pry
+  return "YUM YUM MUNCH MUNCH MUNCH"
+  binding.pry
   elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
   end
